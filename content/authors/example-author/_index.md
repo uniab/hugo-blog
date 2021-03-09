@@ -1,21 +1,21 @@
 ---
-title: Example Author
-role: Example Role
+title: Machard
+role: Site Administrator
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: An interesting guy.
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: UNIAB TEAM
+  url: https://uniab.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:admin@uniab.com
   - icon: twitter
     iconPack: fab
     url: https://example.com/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/uniab
 ---
 
 ## Self Introduction
