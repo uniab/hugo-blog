@@ -2,7 +2,7 @@ baseURL: /
 title: UNIAB TEAM 
 
 # Comment when installing using Hugo Modules
-theme: eureka
+theme: default 
 # Uncomment when installing using Hugo Modules
 # theme: github.com/wangchucheng/hugo-eureka
 
